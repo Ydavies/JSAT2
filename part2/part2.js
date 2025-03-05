@@ -8,6 +8,7 @@ console.log(myMovie);
 myMovie.rating = 5;
 console.log(myMovie);
 
+
 // Add in Summary: World War II movie about the Normandy landings
 myMovie.summary = "World War II movie about the Normandy landings";
 console.log(myMovie);
